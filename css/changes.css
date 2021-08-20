@@ -1,0 +1,274 @@
+.begig-welcome{
+    background: url("../images/shape/group-41.svg");
+    background-size:contain ;
+}
+
+.our-feature-app  .title {
+    font-size: 44px;
+    line-height: 60px;
+    color: #fff;
+    padding-bottom: 4rem;
+}
+.border-primary{
+    border-color: #964bac !important;
+}
+.border-secondary{
+    border-color: #4668D5 !important;
+}
+.fg-primary{
+    color:#964bac !important;
+}
+.fg-primary-light{
+    color:#faf3ff !important;
+}
+.bg-primary{
+    background:#964bac !important;
+}
+.bg-primary-light{
+    background-color:#faf3ff !important;
+}
+.press-bg{
+    background: url("../images/shape/group-96.svg");
+    background-size: cover;
+}
+.bg-theme-dark{
+    background: #0C0E17;
+}
+.fg-secondary{
+    color:#4668D5 !important;
+}
+.fg-white{
+    color:#fff;
+}
+.text-end{
+    text-align: end;
+}
+.fg-secondary-light{
+    color:#C0D1FF !important;
+}
+
+#freelancer-carousel  .carousel-indicators li{
+    background-color: #964bac;
+}
+#gigs-carousel  .carousel-indicators li{
+    background-color:#4668D5;
+}
+#freelancer-carousel .carousel-indicators{
+    bottom: -50px;
+}
+#gigs-carousel .carousel-indicators{
+    bottom: -50px;
+}
+.section-trending .card{
+    height:400px;
+}
+.heart-icon{
+    position: absolute;
+    top: 0;
+    right: 10px;
+}
+.right-icon{
+    position: absolute;
+    right: 0;
+    bottom: 0;
+}
+.bg-secondary{
+    background:#4668D5 !important;
+}
+.bg-secondary-light{
+    background-color:#C0D1FF !important;
+}
+#companies .our-service.service-minimal {
+    background: url("../images/shape/group-108.svg");
+}
+#freelancers .our-service.service-minimal {
+    background: url("../images/shape/group-91.svg");
+}
+.hands-bg{
+    background: url("../images/shape/group-101.svg");
+}
+.readmore.collapsed{
+    display: inline-block;
+}
+.readmore{
+    display: none;
+}
+.float-right{
+    float: right;
+}
+
+.color-white{
+    color: white;
+}
+
+.font-26{
+    font-size: 20px;
+}
+
+a.bg-primary:focus, a.bg-primary:hover, button.bg-primary:focus, button.bg-primary:hover{
+    background-color: #964bac!important;
+}
+
+.tech-button{
+    border-radius: 40px;
+    font-size: 25px;
+    padding: 10px 30px;
+}
+
+.vertical-button-text-right {
+    white-space: pre;
+    display: block;
+    height: 100vh;
+    transform-origin: 0 0;
+    font-size: 30px;
+    /* position: relative; */
+    /* right: 0px; */
+    color: white;
+    width: 100vh;
+    margin-left: 50px;
+  }
+  
+.vertical-button-text-left {
+    white-space: pre;
+    display: block;
+    height: 100vh;
+
+    font-size: 30px;
+    /* position: relative; */
+    /* right: 0px; */
+    color: white;
+    width: 100vh;
+    /* margin-right: 50px; */
+    padding-top: 20px;
+}
+.brad-20{
+    border-radius: 20px;
+}
+.theme-main-menu .top-header{
+    position: relative;
+    left: -50px;
+    width: calc(100% + 100px);
+}
+.theme-main-menu .top-header .container{
+    overflow-x: scroll;
+    
+}
+.theme-main-menu .top-header .container a{
+    min-width:50px;
+
+}
+.scroll-horizontal{
+    overflow-x: scroll;
+}
+#companies{
+    width:0%;
+    display: none;  
+}
+
+#freelancers{
+    width: 100%;
+}
+
+.flex-grow{
+    flex-grow: 1
+}
+
+.no-border{
+    border: 0 !important
+}
+
+.theme-main-menu.fixed .top-header{
+    display: none !important;
+}
+.search-form{
+    border: solid;
+    border-width: 0 0 1px 0px;
+}
+
+.search-form .form-select{
+    font-size: 12px;
+    border:0
+}
+
+@media(max-width:575px){
+    .theme-menu-two .logo{
+        margin-right: 0;
+    }
+}
+
+.top-header a{
+    
+    display: inline-block;
+  
+    text-align: center;
+    padding: 14px;
+    text-decoration: none;
+}
+.top-header {
+    
+    overflow: auto;
+    white-space: nowrap;
+}
+
+.btn-support-text{
+    position: relative;
+    bottom: 10px;
+    
+}
+
+.freelancer-cards .card-img-top{
+    width:100px;
+}
+
+.white-space-wrap{
+    white-space: normal;
+}
+
+
+
+.rotate--90 {
+
+    transform: rotate(-90deg);
+    
+    
+    /* Legacy vendor prefixes that you probably don't need... */
+    
+    /* Safari */
+    -webkit-transform: rotate(-90deg);
+    
+    /* Firefox */
+    -moz-transform: rotate(-90deg);
+    
+    /* IE */
+    -ms-transform: rotate(-90deg);
+    
+    /* Opera */
+    -o-transform: rotate(-90deg);
+    
+    /* Internet Explorer */
+    filter: progid:DXImageTransform.Microsoft.BasicImage(rotation=3);
+    
+    }
+.rotate-90 {
+
+    transform: rotate(90deg);
+    
+    
+    /* Legacy vendor prefixes that you probably don't need... */
+    
+    /* Safari */
+    -webkit-transform: rotate(90deg);
+    
+    /* Firefox */
+    -moz-transform: rotate(90deg);
+    
+    /* IE */
+    -ms-transform: rotate(90deg);
+    
+    /* Opera */
+    -o-transform: rotate(90deg);
+    
+    /* Internet Explorer */
+    filter: progid:DXImageTransform.Microsoft.BasicImage(rotation=3);
+    
+    }

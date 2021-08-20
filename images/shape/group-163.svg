@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="187.5" height="187.5">
+    <defs>
+        <style>
+            .cls-2{fill:#4668d5}.cls-3{fill:#0c0e17}.cls-4{fill:none;stroke:#0c0e17;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5px}
+        </style>
+    </defs>
+    <g id="Group_163" data-name="Group 163" transform="translate(-2417.101 -1340.625)">
+        <circle id="Ellipse_47" data-name="Ellipse 47" cx="93.75" cy="93.75" r="93.75" transform="translate(2417.101 1340.625)" style="fill:#e1e7ff"/>
+        <path id="Rectangle_117" data-name="Rectangle 117" class="cls-2" transform="translate(2461.351 1410.375)" d="M0 0h99v60H0z"/>
+        <path id="Rectangle_118" data-name="Rectangle 118" class="cls-2" transform="translate(2461.351 1398.375)" d="M0 0h99v9H0z"/>
+        <g id="Group_160" data-name="Group 160">
+            <g id="Group_159" data-name="Group 159">
+                <path id="Path_137" data-name="Path 137" class="cls-3" d="m2531.568 1432.094-9.008-.082 9.09-8.926z"/>
+            </g>
+            <path id="Path_138" data-name="Path 138" class="cls-4" d="M2490.546 1444.279a20.564 20.564 0 0 1 37.055-16.249"/>
+        </g>
+        <g id="Group_162" data-name="Group 162">
+            <g id="Group_161" data-name="Group 161">
+                <path id="Path_139" data-name="Path 139" class="cls-3" d="m2490.785 1448.175 9.008.082-9.09 8.926z"/>
+            </g>
+            <path id="Path_140" data-name="Path 140" class="cls-4" d="M2531.807 1435.989a20.563 20.563 0 0 1-37.055 16.249"/>
+        </g>
+        <text id="_0_" data-name="0%" transform="translate(2512.765 1444.776)" style="font-size:12.752px;font-family:Helvetica;letter-spacing:.078em"><tspan x="-9.712" y="0">0%</tspan></text>
+    </g>
+</svg>
